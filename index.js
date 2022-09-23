@@ -1,5 +1,5 @@
 const discord = require('discord.js');
-
+require('dotenv').config()
 // // //
 
 
